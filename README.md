@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm <a href="#">Tahir Adem</a> 🧠</h1>
+<h1 align="center">👋 Hey there, I'm <a href="#">Tewodros Hulgizie</a> 🧠</h1>
 
 <p align="center">
-  <b>Designer 💡 | Developer 💻 | Dreamer 🌍</b><br>
+  <b>Designer 💡 | Developer</b><br>
   I build beautiful interfaces, powerful full-stack apps, and ideas that live on the web.
 </p>
 
@@ -38,8 +38,7 @@
 
 ---
 
-### 🚀 Current Projects
-- 🏋️ **Gym SaaS Dashboard** — financial reports, workout tracking, & nutrition system  
+### 🚀 Current Projects 
 - 🍕 **Delivery Web App** — live tracking + distance/time estimation  
 - 💼 **Raise A Knee** — my personal portfolio showcasing creative works  
 
