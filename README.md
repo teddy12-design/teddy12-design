@@ -60,9 +60,9 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/tewodros hulgizie"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
-   <a href="https://https://www.teddy-12.kesug.com">www.teddy-12.kesug.com<img src="https://img.shields.io/badge/portfolio -100000?logo=portfolio&logoColor=white"></a>
-    <a href="https://www.instagram.com/tovitaura?igsh=MWw0d2FvZDQ3aTJ0">tewodros hulgizie<img src="https://img.shields.io/badge/Instagram -100000?logo=Instagram &logoColor=white"></a>
-  <a href="mailto:teodroshulgizie@gmail.com">tewodros hulgizie<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+   <a href="https://www.teddy-12.kesug.com">www.teddy-12.kesug.com<img src="https://img.shields.io/badge/portfolio -100000?logo=portfolio&logoColor=white"></a>
+    <a href="https://www.instagram.com/tovitaura?igsh=MWw0d2FvZDQ3aTJ0"><img src="https://img.shields.io/badge/Instagram -100000?logo=Instagram &logoColor=white"></a>
+  <a href="mailto:teodroshulgizie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
