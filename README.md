@@ -45,8 +45,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahirAdem&show_icons=true&theme=radical" alt="Tahir's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAdem&layout=compact&theme=radical" height="165"/>
+coming soon
 </p>
 
 ---
@@ -59,9 +58,4 @@
   <a href="mailto:teodroshulgizie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
----
 
-### 🌀 Fun Mode
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+dreams+with+code+💫;Designing+the+future+with+pixels+🎨;Living+to+create%2C+not+to+consume+⚡;Welcome+to+my+creative+universe!+🚀">
-</p>
