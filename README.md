@@ -2,18 +2,15 @@
 
 <p align="center">
   <b>Designer 💡 | Developer</b><br>
-  I build beautiful interfaces, powerful full-stack apps, and ideas that live on the web.
+  I build interactive interfaces and powerful web app.
 </p>
 
 ---
 
 ### 🧩 About Me
 - 🎓 Undergraduate student & passionate **Full Stack Developer**
-- 🎨 Experienced **UI/UX Designer** using Figma & Adobe Illustrator  
-- 💻 2+ years of experience in **Front-End** and **Full-Stack** development  
-- 🌐 Currently building **delivery**, **fitness SaaS**, and **digital agency** projects  
-- ⚡ Fun fact: I can spend hours designing pixel-perfect UIs before writing a single line of code 😎  
-
+- Front-End and Full-Stack development  
+- 🌐 Currently building **delivery**, **agricultural solution **, and **digital agency** projects  
 ---
 
 ### 🛠️ Tech Stack
@@ -27,25 +24,20 @@
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-#### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
 ---
 
 ### 🚀 Current Projects 
 - 🍕 **Delivery Web App** — live tracking + distance/time estimation  
-- 💼 **Raise A Knee** — my personal portfolio showcasing creative works  
+- 💼 **ALABASTA BOX** — my personal portfolio showcasing creative works  
 
 ---
 
 ### 🧠 Life Quote
-> “Code what you dream, design what you feel, and live like your next project is the one that changes everything.” — *Tahir Adem*
+"DO WHATEVER YOU WANT"
 
 ---
 
