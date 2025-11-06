@@ -9,7 +9,7 @@
 
 ### 🧩 About Me
 - 🎓 Undergraduate student & passionate **Full Stack Developer**
-- Front-End and Full-Stack development  
+- Front-End and Back-end development  
 - 🌐 Currently building **delivery**, **agricultural solution **, and **digital agency** projects  
 ---
 
